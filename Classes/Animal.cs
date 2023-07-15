@@ -1,7 +1,7 @@
 namespace KESCHA.Classes
 {
 
-    public class Animal
+    public class Animal: IAnimal
     {
         public int UserAge { get; set; }
         public int Age { get; set; }
