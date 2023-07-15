@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\bin\Debug\net7.0\Kescha.exe
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\bin\Debug\net7.0\Kescha.deps.json
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\bin\Debug\net7.0\Kescha.runtimeconfig.json
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\bin\Debug\net7.0\Kescha.dll
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\bin\Debug\net7.0\Kescha.pdb
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.dll
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\refint\Kescha.dll
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.pdb
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\Kescha.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Mohirdev .Net\Kescha\obj\Debug\net7.0\ref\Kescha.dll
